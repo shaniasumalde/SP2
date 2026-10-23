@@ -10,6 +10,7 @@ public class LibraryLoyaltyCalculator {
         author1.addtitle(new PrintedBook("The Subtle Art Of Not Giving a Fuck", "FAG", 340, 212));
         author1.addtitle(new PrintedBook("Yahya Hassan", "LYRIK", 70, 120));
         author1.addtitle(new PrintedBook("Naruto", "TE", 500, 230 ));
+author1.addtitle(new AudioBook("Mord", "FAG", 200, 90));
 
 
 
